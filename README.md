@@ -23,9 +23,9 @@ This project implements a classic Brick Breaker game using the OpenGL library an
 ## Results
 
 The tokenizer provides detailed results for the given C code. The following output demonstrates the occurrence count for each category.<br>
-![Image 1](https://github.com/Salman1804102/Bricks-Breaker-Game-Gaphics-OpenGL/blob/main/Game%20Interface/graphics_1.PNG)<br>
-![Image 2](https://github.com/Salman1804102/Bricks-Breaker-Game-Gaphics-OpenGL/blob/main/Game%20Interface/graphics_2.png)<br>
-![Image 3](https://github.com/Salman1804102/Bricks-Breaker-Game-Gaphics-OpenGL/blob/main/Game%20Interface/graphics_3.png)<br>
+![Image 1](https://github.com/Salman1804102/Bricks-Breaker-Game-Gaphics-OpenGL/blob/main/Game%20Interface/graphics_1.PNG)
+![Image 2](https://github.com/Salman1804102/Bricks-Breaker-Game-Gaphics-OpenGL/blob/main/Game%20Interface/graphics_2.png)
+![Image 3](https://github.com/Salman1804102/Bricks-Breaker-Game-Gaphics-OpenGL/blob/main/Game%20Interface/graphics_3.png)
 ![Image 4](https://github.com/Salman1804102/Bricks-Breaker-Game-Gaphics-OpenGL/blob/main/Game%20Interface/graphics_4.PNG)
 ## License
 
