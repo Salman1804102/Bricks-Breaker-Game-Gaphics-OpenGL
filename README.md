@@ -31,4 +31,4 @@ The tokenizer provides detailed results for the given C code. The following outp
 
 This project is licensed under the [MIT](https://choosealicense.com/licenses/mit/), which means you are free to use and modify the code according to the terms specified in the license.
 
-**Developed by Salman Farsi** | ![GitHub](https://github.com/Salman1804102)
+**Developed by Salman Farsi** | [GitHub](https://github.com/Salman1804102)
